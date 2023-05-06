@@ -7,7 +7,7 @@
 
 ## 💬 About
 
-This project was developed following 's "[]()" class.
+My Go Lib is a simple library to learn Go.
 
 ## :computer: Technologies
 
