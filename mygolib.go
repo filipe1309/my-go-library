@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func HelloFrom100() {
-	fmt.Println("Hello from v1.0.0")
+func HelloFrom110() {
+	fmt.Println("Hello from My Go Library v1.1.0")
 }
